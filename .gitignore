@@ -1,0 +1,22 @@
+# Modèles IA
+*.pt
+*.pth
+*.onnx
+
+# Résultats d'inférence YOLO
+runs/
+
+# Vidéos
+*.avi
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+.venv/
+venv/
+
+# Fichiers temporaires
+.DS_Store
